@@ -13,12 +13,14 @@ interface Smartphones {
 }
 
 interface LinuxOS {
+
     public void operationSystem();
 
     public void programmingLanguage();
 }
 
 interface iOS {
+
     public void operationSystem();
 
     public void programmingLanguage();
