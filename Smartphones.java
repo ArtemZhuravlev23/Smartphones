@@ -1,28 +1,14 @@
-interface Smartphones {
+public interface Smartphones {
 
-    public void incomingCall();
+    void incomingCall();
 
-    public void incomingSms();
+    void incomingSms();
 
-    public void outgoingCall();
+    void outgoingCall();
 
-    public void outgoingSms();
+    void outgoingSms();
 
-    public void internet();
+    void internet();
 
-}
-
-interface LinuxOS {
-
-    public void operationSystem();
-
-    public void programmingLanguage();
-}
-
-interface IOS {
-
-    public void operationSystem();
-
-    public void programmingLanguage();
 }
 

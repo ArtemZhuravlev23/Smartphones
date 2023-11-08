@@ -1,4 +1,4 @@
-class Androids implements Smartphones, LinuxOS {
+public class Androids implements Smartphones, LinuxOS {
 
     @Override
     public void incomingCall() {
